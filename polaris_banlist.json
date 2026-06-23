@@ -1,5 +1,5 @@
 {
-    "merged_at": "2026/06/23 22:10:27",
+    "merged_at": "2026/06/23 13:48:05",
     "total": 1369,
     "list": [
         {
@@ -11025,7 +11025,7 @@
             "updated_at": "2025/10/29 22:09:20"
         },
         {
-            "lang": "zh-CN",
+            "lang": "ko",
             "name": "PFT-SIGUA",
             "uid": "267784190910152902",
             "pid": "2Nidy68rFAjQ",
@@ -12853,8 +12853,8 @@
         {
             "lang": "zh-ch",
             "name": "兽太母 小野妹子",
-            "uid": "864210240126112857",
-            "pid": "4fhm7H4Lm52f",
+            "uid": null,
+            "pid": "4fhm7H4Lm52F",
             "region": true,
             "hack": false,
             "lag": false,
