@@ -1,11 +1,22 @@
 {
-    "merged_at": "2026/06/24 17:01:00",
-    "total": 1372,
+    "merged_at": "2026/06/25 05:00:05",
+    "total": 1373,
     "list": [
         {
             "lang": "ko",
+            "name": "랩해도돼?",
+            "uid": "511497260618152930",
+            "pid": "3At9rDrAJaTa",
+            "region": false,
+            "hack": false,
+            "lag": false,
+            "family": true,
+            "updated_at": "2026/06/25 09:35:27"
+        },
+        {
+            "lang": "ko",
             "name": "Haru",
-            "uid": null,
+            "uid": "073386260613061239",
             "pid": "4bB67QnGi8QE",
             "region": false,
             "hack": false,
@@ -16,7 +27,7 @@
         {
             "lang": "en",
             "name": "OWLS | IronFist",
-            "uid": null,
+            "uid": "272684260430144244",
             "pid": "4ejFQJi2hqEa",
             "region": false,
             "hack": true,
@@ -323,7 +334,7 @@
         },
         {
             "lang": "ko",
-            "name": "MVZ  I Masamune",
+            "name": "푸른독안",
             "uid": "118807260329194231",
             "pid": "2RfM34Nja4eG",
             "region": false,
@@ -1819,7 +1830,7 @@
         },
         {
             "lang": "ko",
-            "name": "TWOOUT",
+            "name": "Gotong",
             "uid": "038555200327140253",
             "pid": "4d8JedHBfnJ6",
             "region": false,
@@ -2248,7 +2259,7 @@
         },
         {
             "lang": "ko",
-            "name": "LiLi",
+            "name": "패드유저",
             "uid": "124316240209162122",
             "pid": "67GjHim39nMM",
             "region": false,
@@ -3491,7 +3502,7 @@
         },
         {
             "lang": "ko",
-            "name": "감자 열매",
+            "name": "대나무 미쿠",
             "uid": "983043240302093311",
             "pid": "5DfATFbgjAhf",
             "region": false,
@@ -10739,7 +10750,7 @@
             "updated_at": "2025/11/09 16:46:43"
         },
         {
-            "lang": "ko",
+            "lang": "zh-CN",
             "name": "Ryukazama",
             "uid": "788247190927074627",
             "pid": "4t9rTQfmaAjr",
