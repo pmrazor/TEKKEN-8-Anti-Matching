@@ -1,11 +1,11 @@
 {
-    "merged_at": "2026/06/26 17:00:59",
+    "merged_at": "2026/06/27 05:00:06",
     "total": 1383,
     "list": [
         {
             "lang": "ko",
             "name": "hawhaw",
-            "uid": null,
+            "uid": "286164240809115353",
             "pid": "5NbjyB44BeQr",
             "region": false,
             "hack": false,
@@ -16,7 +16,7 @@
         {
             "lang": "ja",
             "name": "ソーセージ",
-            "uid": null,
+            "uid": "196745260626001824",
             "pid": "3n44YeT3aarB",
             "region": false,
             "hack": false,
@@ -2688,7 +2688,7 @@
         },
         {
             "lang": "ja",
-            "name": "レクイエム飯島",
+            "name": "pokken8",
             "uid": "208033250916104337",
             "pid": "234JdbAeNn2Q",
             "region": false,
@@ -8903,7 +8903,7 @@
         },
         {
             "lang": "ko",
-            "name": "phantom",
+            "name": "의자단의 망령",
             "uid": "663994221122141436",
             "pid": "2GRMyMD9Ennf",
             "region": false,
@@ -10860,7 +10860,7 @@
             "updated_at": "2025/11/09 16:46:43"
         },
         {
-            "lang": "ko",
+            "lang": "zh-CN",
             "name": "Ryukazama",
             "uid": "788247190927074627",
             "pid": "4t9rTQfmaAjr",
