@@ -1,11 +1,11 @@
 {
-    "merged_at": "2026/07/08 17:00:57",
+    "merged_at": "2026/07/09 05:00:03",
     "total": 1439,
     "list": [
         {
             "lang": "ko",
             "name": "푸들사랑개",
-            "uid": null,
+            "uid": "919085250212140947",
             "pid": "2L84hHr84eqB",
             "region": false,
             "hack": false,
@@ -6450,7 +6450,7 @@
         },
         {
             "lang": "ko",
-            "name": "아 닉넴 뭐하지",
+            "name": "기본기캐릭유저",
             "uid": "709079190912053652",
             "pid": "2LhG9RYdaADh",
             "region": false,
@@ -12093,7 +12093,7 @@
         },
         {
             "lang": "en",
-            "name": "‎‎ ‎GrassGutter",
+            "name": "‎‎ ‎GrassCutter",
             "uid": "960358230630125304",
             "pid": "3jR5FQHa332T",
             "region": true,
@@ -13225,7 +13225,7 @@
             "updated_at": "2025/10/10 11:46:05"
         },
         {
-            "lang": "ko",
+            "lang": "en",
             "name": "Perfect-Lion",
             "uid": "572953210503131610",
             "pid": "3L5b9hjqAqnj",
@@ -15514,7 +15514,7 @@
         },
         {
             "lang": "en",
-            "name": "Kaz bottom 1",
+            "name": "NìGGER",
             "uid": "219156250630205834",
             "pid": "4E63tb3iYaJT",
             "region": false,
