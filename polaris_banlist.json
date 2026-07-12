@@ -1,11 +1,11 @@
 {
-    "merged_at": "2026/07/11 17:00:58",
+    "merged_at": "2026/07/12 05:00:05",
     "total": 1463,
     "list": [
         {
             "lang": "ko",
             "name": "Ulsan_ko",
-            "uid": null,
+            "uid": "524181260415130258",
             "pid": "2g73n88Q9BN4",
             "region": false,
             "hack": false,
@@ -16,7 +16,7 @@
         {
             "lang": "ja",
             "name": "戦場の竜巻ワルサーYouTub",
-            "uid": null,
+            "uid": "292902240321184020",
             "pid": "2qfi5rrHFMjB",
             "region": false,
             "hack": false,
@@ -27,7 +27,7 @@
         {
             "lang": "ja",
             "name": "戦場の竜巻ワルサーYouTub",
-            "uid": null,
+            "uid": "557004241023124827",
             "pid": "3NqtiByan4BJ",
             "region": false,
             "hack": false,
@@ -38,7 +38,7 @@
         {
             "lang": "ja",
             "name": "戦場の竜巻ワルサーYouTub",
-            "uid": null,
+            "uid": "865477240126081840",
             "pid": "2LheNidmthra",
             "region": false,
             "hack": false,
@@ -8869,7 +8869,7 @@
             "updated_at": "2026/01/28 18:44:33"
         },
         {
-            "lang": "en",
+            "lang": "ko",
             "name": "죽  전",
             "uid": "952740190910085614",
             "pid": "47ahtEqdqFBG",
@@ -13512,7 +13512,7 @@
         },
         {
             "lang": "ja",
-            "name": "Du2ng",
+            "name": "二番頭ナンバーツー",
             "uid": "285636190910121332",
             "pid": "3intiQ3qgq2f",
             "region": true,
@@ -14897,7 +14897,7 @@
             "updated_at": "2025/10/10 11:46:05"
         },
         {
-            "lang": "ja",
+            "lang": "ko",
             "name": "UrusaiYatsura",
             "uid": "466590200123025830",
             "pid": "22nMG7GtHENJ",
