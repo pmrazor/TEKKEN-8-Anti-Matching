@@ -1,11 +1,11 @@
 {
-    "merged_at": "2026/07/19 17:00:58",
+    "merged_at": "2026/07/20 05:00:06",
     "total": 1495,
     "list": [
         {
             "lang": "ko",
             "name": "로하이투미들투포투셋업초스카이",
-            "uid": null,
+            "uid": "711152201024021345",
             "pid": "43Meqe7E7iEj",
             "region": false,
             "hack": false,
@@ -16,7 +16,7 @@
         {
             "lang": "ko",
             "name": "z닉넴z",
-            "uid": null,
+            "uid": "425339240323142704",
             "pid": "5FJY286g4ffa",
             "region": false,
             "hack": false,
@@ -27,7 +27,7 @@
         {
             "lang": "en",
             "name": "B o c a",
-            "uid": null,
+            "uid": "302684190910111339",
             "pid": "3RG4Ra47GtE2",
             "region": false,
             "hack": false,
@@ -38,7 +38,7 @@
         {
             "lang": "en",
             "name": "KutiKuti",
-            "uid": null,
+            "uid": "797968260718151441",
             "pid": "4h8rQm9YBjTJ",
             "region": false,
             "hack": false,
@@ -49,7 +49,7 @@
         {
             "lang": "ko",
             "name": "100sheetssoft",
-            "uid": null,
+            "uid": "812158260710211202",
             "pid": "2QDDm77gfRda",
             "region": false,
             "hack": false,
@@ -5338,8 +5338,8 @@
             "updated_at": "2026/04/22 12:46:32"
         },
         {
-            "lang": "zh-CN",
-            "name": "IORN|喵兜兜",
+            "lang": "en",
+            "name": "조선 버거킹",
             "uid": "220171190910131157",
             "pid": "5f42RTEYgGMQ",
             "region": true,
@@ -12709,7 +12709,7 @@
         },
         {
             "lang": "en",
-            "name": "Grass Cutter tf",
+            "name": "Crystal Mehtyd",
             "uid": "960358230630125304",
             "pid": "3jR5FQHa332T",
             "region": true,
