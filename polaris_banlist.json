@@ -1,5 +1,5 @@
 {
-    "merged_at": "2026/07/31 05:00:06",
+    "merged_at": "2026/07/31 17:00:57",
     "total": 1531,
     "list": [
         {
@@ -433,7 +433,7 @@
         },
         {
             "lang": "ko",
-            "name": "Megasis",
+            "name": "Self Demage",
             "uid": "512513260720092809",
             "pid": "5BhTfRmy9yBy",
             "region": false,
@@ -3842,7 +3842,7 @@
             "updated_at": "2026/05/27 12:56:42"
         },
         {
-            "lang": "ja",
+            "lang": "ko",
             "name": "서지유.",
             "uid": "999681190911084528",
             "pid": "3Qide52fAhrh",
@@ -4426,7 +4426,7 @@
         },
         {
             "lang": "ko",
-            "name": "평범한 40세 곰 아저씨",
+            "name": "김해 삼계초5학년 강윤수",
             "uid": "776271260514093715",
             "pid": "58iBY7yBheQB",
             "region": false,
@@ -12005,7 +12005,7 @@
         },
         {
             "lang": "ko",
-            "name": "짖밥들개패버리기",
+            "name": "우흥우흥",
             "uid": "942097191006101227",
             "pid": "48tRd6qjydf8",
             "region": false,
@@ -13116,7 +13116,7 @@
         },
         {
             "lang": "en",
-            "name": "Grash Cuttersh",
+            "name": "Grass Cutter",
             "uid": "960358230630125304",
             "pid": "3jR5FQHa332T",
             "region": true,
@@ -13874,7 +13874,7 @@
             "updated_at": "2025/10/10 11:46:05"
         },
         {
-            "lang": "ko",
+            "lang": "en",
             "name": "2fast",
             "uid": "420434210811092507",
             "pid": "29eHr3R62qi4",
@@ -13951,7 +13951,7 @@
             "updated_at": "2025/10/10 11:46:05"
         },
         {
-            "lang": "zh-CN",
+            "lang": "zh-TW",
             "name": "色拉姆特",
             "uid": "725891240126051240",
             "pid": "5qA97H2RGfrQ",
@@ -14248,7 +14248,7 @@
             "updated_at": "2025/10/10 11:46:05"
         },
         {
-            "lang": "zh-CN",
+            "lang": "ko",
             "name": "민감클럽",
             "uid": "791261230704041104",
             "pid": "3TLDTjGYdnBh",
@@ -14457,8 +14457,8 @@
             "updated_at": "2025/10/10 11:46:05"
         },
         {
-            "lang": "ko",
-            "name": "highlow_jet",
+            "lang": "zh-CN",
+            "name": "HAWKEYES",
             "uid": "641283230731114650",
             "pid": "3i8B5eFAEbD8",
             "region": true,
@@ -16735,7 +16735,7 @@
         },
         {
             "lang": "ko",
-            "name": "방랑하는의문의뉴비",
+            "name": "아빠있어!!요!!!",
             "uid": "755831220706111940",
             "pid": "5Q3dqbDhJ4ry",
             "region": false,
