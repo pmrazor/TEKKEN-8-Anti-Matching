@@ -1,5 +1,5 @@
 {
-    "merged_at": "2026/07/31 17:00:57",
+    "merged_at": "2026/08/01 05:00:02",
     "total": 1531,
     "list": [
         {
@@ -3842,7 +3842,7 @@
             "updated_at": "2026/05/27 12:56:42"
         },
         {
-            "lang": "ko",
+            "lang": "ja",
             "name": "서지유.",
             "uid": "999681190911084528",
             "pid": "3Qide52fAhrh",
@@ -9904,7 +9904,7 @@
         },
         {
             "lang": "en",
-            "name": "Chowder",
+            "name": "Twin Piston",
             "uid": "638102241230161323",
             "pid": "2iMfmbMLh2hG",
             "region": false,
@@ -13028,7 +13028,7 @@
         },
         {
             "lang": "ko",
-            "name": "신라공주 까엉이",
+            "name": "say cheeze",
             "uid": "211893250428155214",
             "pid": "5RJHFaQLrYJQ",
             "region": false,
