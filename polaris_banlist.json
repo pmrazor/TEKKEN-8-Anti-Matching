@@ -1,7 +1,18 @@
 {
-    "merged_at": "2026/08/03 05:00:05",
-    "total": 1537,
+    "merged_at": "2026/08/03 17:00:59",
+    "total": 1538,
     "list": [
+        {
+            "lang": "en",
+            "name": "1/2 Blood Princ",
+            "uid": null,
+            "pid": "4i7rDBY9NB6M",
+            "region": false,
+            "hack": true,
+            "lag": false,
+            "family": true,
+            "updated_at": "2026/08/03 21:54:16"
+        },
         {
             "lang": "en",
             "name": "Truth",
@@ -80,8 +91,8 @@
             "updated_at": "2026/07/30 21:04:38"
         },
         {
-            "lang": "zh-CN",
-            "name": "Settgf",
+            "lang": "en",
+            "name": "Gettgf",
             "uid": "373285260125043602",
             "pid": "4eNgTq8LMiQh",
             "region": true,
@@ -8804,7 +8815,7 @@
         },
         {
             "lang": "ko",
-            "name": "애쉬브라운",
+            "name": "안하면행복한게임",
             "uid": "842977241231231359",
             "pid": "3FNJQ7dh4m42",
             "region": false,
@@ -8814,7 +8825,7 @@
             "updated_at": "2026/02/05 23:05:11"
         },
         {
-            "lang": "zh-CN",
+            "lang": "ko",
             "name": "MMP I bopiyu",
             "uid": "016111200501072351",
             "pid": "5ibmEEj2eJ22",
@@ -10949,7 +10960,7 @@
         },
         {
             "lang": "ja",
-            "name": "kashiwairoha",
+            "name": "かしいろ",
             "uid": "799673241003053446",
             "pid": "2MAAJqNgYyDd",
             "region": false,
@@ -12324,7 +12335,7 @@
         },
         {
             "lang": "ko",
-            "name": "퀴즈~야호~",
+            "name": "퀴즈야~호~",
             "uid": "187823220821095341",
             "pid": "2E5fQ8E82Fty",
             "region": false,
@@ -14117,7 +14128,7 @@
         },
         {
             "lang": "zh-CN",
-            "name": "taiyichenzi",
+            "name": "TYCZ",
             "uid": "523523190913023501",
             "pid": "5GtMg2RHdA4B",
             "region": true,
@@ -14568,7 +14579,7 @@
         },
         {
             "lang": "zh-CN",
-            "name": "Perfect-晓狮子大坏蛋",
+            "name": "Perfect-작은 사자",
             "uid": "572953210503131610",
             "pid": "3L5b9hjqAqnj",
             "region": true,
@@ -14777,7 +14788,7 @@
         },
         {
             "lang": "ja",
-            "name": "ジャックアトラス",
+            "name": "怒りの魚丸",
             "uid": "792272250709145843",
             "pid": "4Qd2N5t5dBrh",
             "region": true,
@@ -15470,9 +15481,9 @@
         },
         {
             "lang": "ko",
-            "name": "T.F.O.A",
-            "uid": "271032201005094855",
-            "pid": "3JLHEBGLhNan",
+            "name": "Kkyareuk",
+            "uid": "983427250531152846",
+            "pid": "4gtdHrtYdBTh",
             "region": false,
             "hack": true,
             "lag": false,
@@ -15481,9 +15492,9 @@
         },
         {
             "lang": "ko",
-            "name": "Kkyareuk",
-            "uid": "983427250531152846",
-            "pid": "4gtdHrtYdBTh",
+            "name": "T.F.O.A",
+            "uid": "271032201005094855",
+            "pid": "3JLHEBGLhNan",
             "region": false,
             "hack": true,
             "lag": false,
@@ -16328,9 +16339,9 @@
         },
         {
             "lang": "ko",
-            "name": "heesefox1",
-            "uid": "875739250725011126",
-            "pid": "43m4L9hEq8aj",
+            "name": "89세김할아버지의마지막차력쇼",
+            "uid": "520563241215193832",
+            "pid": "4dg9N2QaQT6h",
             "region": false,
             "hack": false,
             "lag": false,
@@ -16342,17 +16353,6 @@
             "name": "철권9언제나옴",
             "uid": "741447250624070623",
             "pid": "4tHLA953GdJr",
-            "region": false,
-            "hack": false,
-            "lag": false,
-            "family": true,
-            "updated_at": "2025/10/10 11:46:05"
-        },
-        {
-            "lang": "en",
-            "name": "TTV_Z1sissss",
-            "uid": "464928250628093954",
-            "pid": "3q2G5L8BJ9Gf",
             "region": false,
             "hack": false,
             "lag": false,
@@ -16393,7 +16393,7 @@
             "updated_at": "2025/10/10 11:46:05"
         },
         {
-            "lang": "ja",
+            "lang": "ko",
             "name": "Mr：Knee",
             "uid": "590701250709131941",
             "pid": "4AtE85q46bT6",
@@ -16438,9 +16438,9 @@
         },
         {
             "lang": "ko",
-            "name": "89세김할아버지의마지막차력쇼",
-            "uid": "520563241215193832",
-            "pid": "4dg9N2QaQT6h",
+            "name": "heesefox1",
+            "uid": "875739250725011126",
+            "pid": "43m4L9hEq8aj",
             "region": false,
             "hack": false,
             "lag": false,
@@ -16463,6 +16463,17 @@
             "name": "→→→AR",
             "uid": "182848191203092926",
             "pid": "23LHdN68ieid",
+            "region": false,
+            "hack": false,
+            "lag": false,
+            "family": true,
+            "updated_at": "2025/10/10 11:46:05"
+        },
+        {
+            "lang": "en",
+            "name": "TTV_Z1sissss",
+            "uid": "464928250628093954",
+            "pid": "3q2G5L8BJ9Gf",
             "region": false,
             "hack": false,
             "lag": false,
