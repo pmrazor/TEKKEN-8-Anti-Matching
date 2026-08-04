@@ -1,11 +1,11 @@
 {
-    "merged_at": "2026/08/03 17:00:59",
+    "merged_at": "2026/08/04 05:00:03",
     "total": 1538,
     "list": [
         {
             "lang": "en",
             "name": "1/2 Blood Princ",
-            "uid": null,
+            "uid": "335424250116193317",
             "pid": "4i7rDBY9NB6M",
             "region": false,
             "hack": true,
@@ -8716,7 +8716,7 @@
         },
         {
             "lang": "ko",
-            "name": "ㅤㅤㅤㅤ",
+            "name": "ㅤ별빛ㅤㅤㅤ",
             "uid": "834324191022154136",
             "pid": "5Db65YLMBj6a",
             "region": false,
@@ -13929,7 +13929,7 @@
             "updated_at": "2025/10/10 11:46:05"
         },
         {
-            "lang": "ko",
+            "lang": "ja",
             "name": "IRON｜RiceShower",
             "uid": "637009211210122356",
             "pid": "5m5jqNyHmyGB",
