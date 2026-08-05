@@ -1,5 +1,5 @@
 {
-    "merged_at": "2026/08/04 17:00:59",
+    "merged_at": "2026/08/05 05:00:02",
     "total": 1538,
     "list": [
         {
@@ -11916,7 +11916,7 @@
             "updated_at": "2025/11/27 09:55:18"
         },
         {
-            "lang": "ko",
+            "lang": "zh-CN",
             "name": "Perfect-windows",
             "uid": "821284190913053114",
             "pid": "3LAMJJ3J4h4f",
@@ -14083,7 +14083,7 @@
             "updated_at": "2025/10/10 11:46:05"
         },
         {
-            "lang": "ko",
+            "lang": "zh-CN",
             "name": "Perfect-nowe",
             "uid": "697973190919042953",
             "pid": "5teh5m39DRJJ",
@@ -14469,7 +14469,7 @@
         },
         {
             "lang": "zh-TW",
-            "name": "perfect-doom",
+            "name": "crown123",
             "uid": "735563190910085357",
             "pid": "2htJr6Dg472Q",
             "region": true,
