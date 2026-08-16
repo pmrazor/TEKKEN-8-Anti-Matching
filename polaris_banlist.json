@@ -1,11 +1,11 @@
 {
-    "merged_at": "2026/08/15 17:01:01",
+    "merged_at": "2026/08/16 05:00:05",
     "total": 1595,
     "list": [
         {
             "lang": "ko",
             "name": "빌런123",
-            "uid": null,
+            "uid": "862172260807142027",
             "pid": "4ifBRftR5mrf",
             "region": false,
             "hack": false,
@@ -16,7 +16,7 @@
         {
             "lang": "ko",
             "name": "돌아온 전설의 치매노인",
-            "uid": null,
+            "uid": "425550211118095201",
             "pid": "2LBL885DYfMa",
             "region": false,
             "hack": false,
@@ -27,7 +27,7 @@
         {
             "lang": "ja",
             "name": "strahov",
-            "uid": null,
+            "uid": "449140260728075103",
             "pid": "24F5QyM9qbt8",
             "region": false,
             "hack": false,
@@ -38,7 +38,7 @@
         {
             "lang": "ko",
             "name": "초등학생",
-            "uid": null,
+            "uid": "273825210606113109",
             "pid": "3md7hGJ7F4rh",
             "region": false,
             "hack": false,
@@ -8903,7 +8903,7 @@
         },
         {
             "lang": "ko",
-            "name": "ㅤㅤㅤㅤㅤㅤ",
+            "name": "상대에게잘못해서철접죄송합니다",
             "uid": "182203220819110941",
             "pid": "66ifira5gQjd",
             "region": false,
@@ -12213,7 +12213,7 @@
             "updated_at": "2025/12/14 07:59:39"
         },
         {
-            "lang": "ja",
+            "lang": "en",
             "name": "한판튀하면북으로추방",
             "uid": "104177220704113357",
             "pid": "5L9q5qf3iR4G",
