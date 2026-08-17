@@ -1,11 +1,11 @@
 {
-    "merged_at": "2026/08/16 17:01:00",
+    "merged_at": "2026/08/17 05:00:05",
     "total": 1598,
     "list": [
         {
             "lang": "en",
             "name": "Leon Kennedy",
-            "uid": null,
+            "uid": "584118220121233241",
             "pid": "2LMYQ256niJ2",
             "region": true,
             "hack": false,
@@ -16,7 +16,7 @@
         {
             "lang": "ja",
             "name": "dada",
-            "uid": null,
+            "uid": "503257230511023833",
             "pid": "5ti4Mh49fEMr",
             "region": false,
             "hack": false,
@@ -27,7 +27,7 @@
         {
             "lang": "ko",
             "name": "도발비매너환영 t bagok",
-            "uid": null,
+            "uid": "781305260814004529",
             "pid": "68fBNB9RqgEJ",
             "region": false,
             "hack": false,
@@ -454,7 +454,7 @@
             "updated_at": "2026/08/11 22:49:12"
         },
         {
-            "lang": "zh-CN",
+            "lang": "ja",
             "name": "納言なごん",
             "uid": "644216250714091205",
             "pid": "48fGgr443qfr",
