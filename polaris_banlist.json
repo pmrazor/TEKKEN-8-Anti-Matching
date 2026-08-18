@@ -1,11 +1,11 @@
 {
-    "merged_at": "2026/08/17 17:00:59",
+    "merged_at": "2026/08/18 05:00:03",
     "total": 1599,
     "list": [
         {
             "lang": "ko",
             "name": "YONDAYE",
-            "uid": null,
+            "uid": "982713211003055939",
             "pid": "3TAGja3AYDBT",
             "region": false,
             "hack": false,
@@ -70,7 +70,7 @@
         },
         {
             "lang": "ja",
-            "name": "strahov",
+            "name": "petrouchka",
             "uid": "449140260728075103",
             "pid": "24F5QyM9qbt8",
             "region": false,
@@ -10354,7 +10354,7 @@
             "updated_at": "2026/01/29 12:32:38"
         },
         {
-            "lang": "zh-CN",
+            "lang": "ko",
             "name": "IRON|王胥",
             "uid": "607912190910075713",
             "pid": "5J79TNb48Ayd",
