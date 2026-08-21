@@ -1,7 +1,18 @@
 {
-    "merged_at": "2026/08/20 17:00:58",
+    "merged_at": "2026/08/21 05:00:02",
     "total": 1609,
     "list": [
+        {
+            "lang": "ko",
+            "name": "WBG Ess | x c c",
+            "uid": "731625190910124046",
+            "pid": "2GrYnqm85tNT",
+            "region": true,
+            "hack": false,
+            "lag": false,
+            "family": true,
+            "updated_at": "2026/08/21 12:08:52"
+        },
         {
             "lang": "ko",
             "name": "옹야쓰사칭범",
@@ -597,7 +608,7 @@
             "updated_at": "2026/08/11 22:49:12"
         },
         {
-            "lang": "zh-CN",
+            "lang": "ja",
             "name": "納言なごん",
             "uid": "644216250714091205",
             "pid": "48fGgr443qfr",
@@ -11554,17 +11565,6 @@
         },
         {
             "lang": "ko",
-            "name": "WBG Ess | x c c",
-            "uid": "731625190910124046",
-            "pid": "2GrYnqm85tNT",
-            "region": true,
-            "hack": false,
-            "lag": false,
-            "family": true,
-            "updated_at": "2025/12/28 12:18:12"
-        },
-        {
-            "lang": "ko",
             "name": "IRON | Bone",
             "uid": "179272210131142426",
             "pid": "2LmadB6ti4ay",
@@ -14380,21 +14380,10 @@
             "updated_at": "2025/10/10 15:17:22"
         },
         {
-            "lang": "ko",
-            "name": "PFT-WCLQ",
-            "uid": "712022191006172931",
-            "pid": "56jaEb4t7tE4",
-            "region": true,
-            "hack": false,
-            "lag": false,
-            "family": false,
-            "updated_at": "2025/10/10 11:46:05"
-        },
-        {
-            "lang": "ko",
-            "name": "IRON  I  闪耀",
-            "uid": "102192200210083116",
-            "pid": "5ANE2hdN3qJ6",
+            "lang": "en",
+            "name": "Bojack Horseman",
+            "uid": "686554191001042257",
+            "pid": "5Dr334YMH3E4",
             "region": true,
             "hack": false,
             "lag": false,
@@ -14403,9 +14392,9 @@
         },
         {
             "lang": "en",
-            "name": "Bojack Horseman",
-            "uid": "686554191001042257",
-            "pid": "5Dr334YMH3E4",
+            "name": "Chickenbbq",
+            "uid": "013671190911013655",
+            "pid": "2FLhm4ertyYn",
             "region": true,
             "hack": false,
             "lag": false,
@@ -14428,17 +14417,6 @@
             "name": "뉴진스 마니아",
             "uid": "014008210207144516",
             "pid": "5E6M779tAfB4",
-            "region": true,
-            "hack": false,
-            "lag": false,
-            "family": false,
-            "updated_at": "2025/10/10 11:46:05"
-        },
-        {
-            "lang": "zh-CN",
-            "name": "今晚吃蕉",
-            "uid": "439314230204141126",
-            "pid": "65YnFqiLT7Qj",
             "region": true,
             "hack": false,
             "lag": false,
@@ -14490,10 +14468,10 @@
             "updated_at": "2025/10/10 11:46:05"
         },
         {
-            "lang": "en",
-            "name": "Chickenbbq",
-            "uid": "013671190911013655",
-            "pid": "2FLhm4ertyYn",
+            "lang": "zh-CN",
+            "name": "今晚吃蕉",
+            "uid": "439314230204141126",
+            "pid": "65YnFqiLT7Qj",
             "region": true,
             "hack": false,
             "lag": false,
@@ -14501,10 +14479,21 @@
             "updated_at": "2025/10/10 11:46:05"
         },
         {
-            "lang": "zh-CN",
-            "name": "Shadow|中国的台湾省",
-            "uid": "010713190911124113",
-            "pid": "52Gti8aDhQT2",
+            "lang": "ko",
+            "name": "ShowtimeVanilla",
+            "uid": "673925190910134438",
+            "pid": "5ddT4r6YqRnj",
+            "region": true,
+            "hack": false,
+            "lag": false,
+            "family": false,
+            "updated_at": "2025/10/10 11:46:05"
+        },
+        {
+            "lang": "en",
+            "name": "Waifu Spam",
+            "uid": "595181241129063124",
+            "pid": "5BFhr6BfdG6Q",
             "region": true,
             "hack": false,
             "lag": false,
@@ -14524,6 +14513,17 @@
         },
         {
             "lang": "ko",
+            "name": "PFT-WCLQ",
+            "uid": "712022191006172931",
+            "pid": "56jaEb4t7tE4",
+            "region": true,
+            "hack": false,
+            "lag": false,
+            "family": false,
+            "updated_at": "2025/10/10 11:46:05"
+        },
+        {
+            "lang": "ko",
             "name": "Perfect-Haoxuan",
             "uid": "699061191113133632",
             "pid": "56MBQHHN4HQ2",
@@ -14531,39 +14531,6 @@
             "hack": false,
             "lag": false,
             "family": true,
-            "updated_at": "2025/10/10 11:46:05"
-        },
-        {
-            "lang": "zh-CN",
-            "name": "Perfect-蓬哥哥",
-            "uid": "345380240217144737",
-            "pid": "56TbeBqqiB24",
-            "region": true,
-            "hack": false,
-            "lag": false,
-            "family": false,
-            "updated_at": "2025/10/10 11:46:05"
-        },
-        {
-            "lang": "zh-CN",
-            "name": "Gust",
-            "uid": "310698231206133700",
-            "pid": "2GNt9Bbf589G",
-            "region": true,
-            "hack": false,
-            "lag": false,
-            "family": false,
-            "updated_at": "2025/10/10 11:46:05"
-        },
-        {
-            "lang": "zh-CN",
-            "name": "VIT | Monologue",
-            "uid": "262303190925045526",
-            "pid": "5jt23iFqJ2GJ",
-            "region": true,
-            "hack": true,
-            "lag": false,
-            "family": false,
             "updated_at": "2025/10/10 11:46:05"
         },
         {
@@ -14579,9 +14546,64 @@
         },
         {
             "lang": "zh-CN",
+            "name": "Perfect-蓬哥哥",
+            "uid": "345380240217144737",
+            "pid": "56TbeBqqiB24",
+            "region": true,
+            "hack": false,
+            "lag": false,
+            "family": false,
+            "updated_at": "2025/10/10 11:46:05"
+        },
+        {
+            "lang": "en",
+            "name": "zEnVsis",
+            "uid": "604099240515120703",
+            "pid": "5dQgbB9LNthj",
+            "region": true,
+            "hack": true,
+            "lag": false,
+            "family": true,
+            "updated_at": "2025/10/10 11:46:05"
+        },
+        {
+            "lang": "zh-CN",
+            "name": "Gust",
+            "uid": "310698231206133700",
+            "pid": "2GNt9Bbf589G",
+            "region": true,
+            "hack": false,
+            "lag": false,
+            "family": false,
+            "updated_at": "2025/10/10 11:46:05"
+        },
+        {
+            "lang": "zh-CN",
+            "name": "SSSSSSSSSSW",
+            "uid": "422650230929155738",
+            "pid": "2bgTEbDHR4M2",
+            "region": true,
+            "hack": false,
+            "lag": false,
+            "family": false,
+            "updated_at": "2025/10/10 11:46:05"
+        },
+        {
+            "lang": "zh-CN",
             "name": "crown123",
             "uid": "735563190910085357",
             "pid": "2htJr6Dg472Q",
+            "region": true,
+            "hack": false,
+            "lag": false,
+            "family": false,
+            "updated_at": "2025/10/10 11:46:05"
+        },
+        {
+            "lang": "ko",
+            "name": "IRON  I  闪耀",
+            "uid": "102192200210083116",
+            "pid": "5ANE2hdN3qJ6",
             "region": true,
             "hack": false,
             "lag": false,
@@ -14622,17 +14644,6 @@
             "updated_at": "2025/10/10 11:46:05"
         },
         {
-            "lang": "en",
-            "name": "Waifu Spam",
-            "uid": "595181241129063124",
-            "pid": "5BFhr6BfdG6Q",
-            "region": true,
-            "hack": false,
-            "lag": false,
-            "family": false,
-            "updated_at": "2025/10/10 11:46:05"
-        },
-        {
             "lang": "ja",
             "name": "ZeroLar",
             "uid": "394666190911153738",
@@ -14644,25 +14655,14 @@
             "updated_at": "2025/10/10 11:46:05"
         },
         {
-            "lang": "ko",
-            "name": "ShowtimeVanilla",
-            "uid": "673925190910134438",
-            "pid": "5ddT4r6YqRnj",
+            "lang": "zh-CN",
+            "name": "Shadow|中国的台湾省",
+            "uid": "010713190911124113",
+            "pid": "52Gti8aDhQT2",
             "region": true,
             "hack": false,
             "lag": false,
             "family": false,
-            "updated_at": "2025/10/10 11:46:05"
-        },
-        {
-            "lang": "en",
-            "name": "zEnVsis",
-            "uid": "604099240515120703",
-            "pid": "5dQgbB9LNthj",
-            "region": true,
-            "hack": true,
-            "lag": false,
-            "family": true,
             "updated_at": "2025/10/10 11:46:05"
         },
         {
@@ -14677,14 +14677,36 @@
             "updated_at": "2025/10/10 11:46:05"
         },
         {
-            "lang": "zh-TW",
-            "name": "Perfect︱♂日高小春♪",
-            "uid": "648815230728094053",
-            "pid": "2a27Nd93r5aQ",
+            "lang": "zh-CN",
+            "name": "GBR | BlackSwan",
+            "uid": "488475200513032341",
+            "pid": "5NeT3GEFQ7yh",
             "region": true,
             "hack": false,
             "lag": false,
             "family": false,
+            "updated_at": "2025/10/10 11:46:05"
+        },
+        {
+            "lang": "ko",
+            "name": "使劲凹，我拿你练防御",
+            "uid": "435661191013141039",
+            "pid": "5NFdBgaLHDhE",
+            "region": true,
+            "hack": false,
+            "lag": false,
+            "family": true,
+            "updated_at": "2025/10/10 11:46:05"
+        },
+        {
+            "lang": "ko",
+            "name": "ttekk11",
+            "uid": "368984240824165656",
+            "pid": "3nm6emNRLAGT",
+            "region": true,
+            "hack": false,
+            "lag": false,
+            "family": true,
             "updated_at": "2025/10/10 11:46:05"
         },
         {
@@ -14743,17 +14765,6 @@
             "updated_at": "2025/10/10 11:46:05"
         },
         {
-            "lang": "zh-CN",
-            "name": "IRON 丨 Legend",
-            "uid": "309550191029134235",
-            "pid": "63T7YD3yMRdB",
-            "region": true,
-            "hack": false,
-            "lag": false,
-            "family": false,
-            "updated_at": "2025/10/10 11:46:05"
-        },
-        {
             "lang": "en",
             "name": "CH453",
             "uid": "511930200525104930",
@@ -14798,17 +14809,6 @@
             "updated_at": "2025/10/10 11:46:05"
         },
         {
-            "lang": "zh-CN",
-            "name": "DTK | 小辣鸡回归版",
-            "uid": "621013240914185100",
-            "pid": "63QTahQqfihE",
-            "region": true,
-            "hack": false,
-            "lag": false,
-            "family": false,
-            "updated_at": "2025/10/10 11:46:05"
-        },
-        {
             "lang": "zh-TW",
             "name": "ak7256",
             "uid": "570437190910131946",
@@ -14843,31 +14843,42 @@
         },
         {
             "lang": "ko",
-            "name": "ttekk11",
-            "uid": "368984240824165656",
-            "pid": "3nm6emNRLAGT",
+            "name": "50/50",
+            "uid": "963326190215124443",
+            "pid": "5nEdTr7HnJfM",
             "region": true,
             "hack": false,
             "lag": false,
-            "family": true,
-            "updated_at": "2025/10/10 11:46:05"
-        },
-        {
-            "lang": "ko",
-            "name": "使劲凹，我拿你练防御",
-            "uid": "435661191013141039",
-            "pid": "5NFdBgaLHDhE",
-            "region": true,
-            "hack": false,
-            "lag": false,
-            "family": true,
+            "family": false,
             "updated_at": "2025/10/10 11:46:05"
         },
         {
             "lang": "zh-CN",
-            "name": "GBR | BlackSwan",
-            "uid": "488475200513032341",
-            "pid": "5NeT3GEFQ7yh",
+            "name": "DTK | 小辣鸡回归版",
+            "uid": "621013240914185100",
+            "pid": "63QTahQqfihE",
+            "region": true,
+            "hack": false,
+            "lag": false,
+            "family": false,
+            "updated_at": "2025/10/10 11:46:05"
+        },
+        {
+            "lang": "en",
+            "name": "IRON 丨 Legend",
+            "uid": "309550191029134235",
+            "pid": "63T7YD3yMRdB",
+            "region": true,
+            "hack": false,
+            "lag": false,
+            "family": false,
+            "updated_at": "2025/10/10 11:46:05"
+        },
+        {
+            "lang": "zh-TW",
+            "name": "Perfect︱♂日高小春♪",
+            "uid": "648815230728094053",
+            "pid": "2a27Nd93r5aQ",
             "region": true,
             "hack": false,
             "lag": false,
@@ -14952,6 +14963,17 @@
             "updated_at": "2025/10/10 11:46:05"
         },
         {
+            "lang": "en",
+            "name": "Narwax",
+            "uid": "424578240714092821",
+            "pid": "64YaNrEyrBay",
+            "region": true,
+            "hack": true,
+            "lag": false,
+            "family": false,
+            "updated_at": "2025/10/10 11:46:05"
+        },
+        {
             "lang": "zh-CN",
             "name": "Perfect--F C",
             "uid": "119867190911053347",
@@ -14964,24 +14986,24 @@
         },
         {
             "lang": "zh-CN",
-            "name": "SSSSSSSSSSW",
-            "uid": "422650230929155738",
-            "pid": "2bgTEbDHR4M2",
+            "name": "VIT | Monologue",
+            "uid": "262303190925045526",
+            "pid": "5jt23iFqJ2GJ",
             "region": true,
-            "hack": false,
+            "hack": true,
             "lag": false,
             "family": false,
             "updated_at": "2025/10/10 11:46:05"
         },
         {
-            "lang": "en",
-            "name": "Narwax",
-            "uid": "424578240714092821",
-            "pid": "64YaNrEyrBay",
+            "lang": "ja",
+            "name": "さよならいおん",
+            "uid": "876682220217092349",
+            "pid": "64LmR2378Lnn",
             "region": true,
-            "hack": true,
+            "hack": false,
             "lag": false,
-            "family": false,
+            "family": true,
             "updated_at": "2025/10/10 11:46:05"
         },
         {
@@ -15007,32 +15029,10 @@
             "updated_at": "2025/10/10 11:46:05"
         },
         {
-            "lang": "ja",
-            "name": "さよならいおん",
-            "uid": "876682220217092349",
-            "pid": "64LmR2378Lnn",
-            "region": true,
-            "hack": false,
-            "lag": false,
-            "family": true,
-            "updated_at": "2025/10/10 11:46:05"
-        },
-        {
             "lang": "zh-CN",
             "name": "aoteman",
             "uid": "931993210817062255",
             "pid": "63Thq3tY9m4J",
-            "region": true,
-            "hack": false,
-            "lag": false,
-            "family": false,
-            "updated_at": "2025/10/10 11:46:05"
-        },
-        {
-            "lang": "ko",
-            "name": "50/50",
-            "uid": "963326190215124443",
-            "pid": "5nEdTr7HnJfM",
             "region": true,
             "hack": false,
             "lag": false,
@@ -15063,13 +15063,24 @@
         },
         {
             "lang": "zh-CN",
-            "name": "PFT-Lige",
-            "uid": "550517190911162120",
-            "pid": "3AGdN9HBDtrG",
+            "name": "perfect-龙哥",
+            "uid": "370314220409152101",
+            "pid": "3D6mnq3L7ayr",
             "region": true,
             "hack": false,
             "lag": false,
-            "family": true,
+            "family": false,
+            "updated_at": "2025/10/10 11:46:05"
+        },
+        {
+            "lang": "en",
+            "name": "big raga",
+            "uid": "199794191029222333",
+            "pid": "3rdge62aaAGG",
+            "region": true,
+            "hack": false,
+            "lag": false,
+            "family": false,
             "updated_at": "2025/10/10 11:46:05"
         },
         {
@@ -15217,17 +15228,6 @@
         },
         {
             "lang": "zh-CN",
-            "name": "perfect-龙哥",
-            "uid": "370314220409152101",
-            "pid": "3D6mnq3L7ayr",
-            "region": true,
-            "hack": false,
-            "lag": false,
-            "family": false,
-            "updated_at": "2025/10/10 11:46:05"
-        },
-        {
-            "lang": "zh-CN",
             "name": "Perfect-Joker",
             "uid": "672319240127130232",
             "pid": "43hiAmR94mdM",
@@ -15260,17 +15260,6 @@
             "updated_at": "2025/10/10 11:46:05"
         },
         {
-            "lang": "en",
-            "name": "big raga",
-            "uid": "199794191029222333",
-            "pid": "3rdge62aaAGG",
-            "region": true,
-            "hack": false,
-            "lag": false,
-            "family": false,
-            "updated_at": "2025/10/10 11:46:05"
-        },
-        {
             "lang": "zh-CN",
             "name": "DTK-玛丽王",
             "uid": "154179191210095810",
@@ -15279,6 +15268,17 @@
             "hack": false,
             "lag": false,
             "family": true,
+            "updated_at": "2025/10/10 11:46:05"
+        },
+        {
+            "lang": "zh-CN",
+            "name": "ShowTime-Tommy",
+            "uid": "869756190910111507",
+            "pid": "3QDb5TQRNg4B",
+            "region": true,
+            "hack": false,
+            "lag": false,
+            "family": false,
             "updated_at": "2025/10/10 11:46:05"
         },
         {
@@ -15327,9 +15327,31 @@
         },
         {
             "lang": "zh-CN",
+            "name": "PFT-Lige",
+            "uid": "550517190911162120",
+            "pid": "3AGdN9HBDtrG",
+            "region": true,
+            "hack": false,
+            "lag": false,
+            "family": true,
+            "updated_at": "2025/10/10 11:46:05"
+        },
+        {
+            "lang": "zh-CN",
             "name": "Cherry",
             "uid": "246421190910152323",
             "pid": "3a8Gtq9aLJQE",
+            "region": true,
+            "hack": false,
+            "lag": false,
+            "family": false,
+            "updated_at": "2025/10/10 11:46:05"
+        },
+        {
+            "lang": "ja",
+            "name": "二番頭ナンバーツー",
+            "uid": "285636190910121332",
+            "pid": "3intiQ3qgq2f",
             "region": true,
             "hack": false,
             "lag": false,
@@ -15348,17 +15370,6 @@
             "updated_at": "2025/10/10 11:46:05"
         },
         {
-            "lang": "ja",
-            "name": "二番頭ナンバーツー",
-            "uid": "285636190910121332",
-            "pid": "3intiQ3qgq2f",
-            "region": true,
-            "hack": false,
-            "lag": false,
-            "family": false,
-            "updated_at": "2025/10/10 11:46:05"
-        },
-        {
             "lang": "zh-CN",
             "name": "IRON | Jie.",
             "uid": "179509190910101146",
@@ -15370,10 +15381,21 @@
             "updated_at": "2025/10/10 11:46:05"
         },
         {
-            "lang": "zh-CN",
+            "lang": "en",
             "name": "Perfect-작은 사자",
             "uid": "572953210503131610",
             "pid": "3L5b9hjqAqnj",
+            "region": true,
+            "hack": false,
+            "lag": false,
+            "family": false,
+            "updated_at": "2025/10/10 11:46:05"
+        },
+        {
+            "lang": "zh-CN",
+            "name": "Perfect-CHANEL",
+            "uid": "703358230309103151",
+            "pid": "3LM6YFqgEfyn",
             "region": true,
             "hack": false,
             "lag": false,
@@ -15389,17 +15411,6 @@
             "hack": false,
             "lag": false,
             "family": true,
-            "updated_at": "2025/10/10 11:46:05"
-        },
-        {
-            "lang": "zh-CN",
-            "name": "Perfect-CHANEL",
-            "uid": "703358230309103151",
-            "pid": "3LM6YFqgEfyn",
-            "region": true,
-            "hack": false,
-            "lag": false,
-            "family": false,
             "updated_at": "2025/10/10 11:46:05"
         },
         {
@@ -15451,17 +15462,6 @@
             "name": "Perfect-蚂蚁",
             "uid": "483223191228034733",
             "pid": "3QAiBmQ4jb2G",
-            "region": true,
-            "hack": false,
-            "lag": false,
-            "family": false,
-            "updated_at": "2025/10/10 11:46:05"
-        },
-        {
-            "lang": "zh-CN",
-            "name": "ShowTime-Tommy",
-            "uid": "869756190910111507",
-            "pid": "3QDb5TQRNg4B",
             "region": true,
             "hack": false,
             "lag": false,
@@ -17076,28 +17076,6 @@
         },
         {
             "lang": "ko",
-            "name": "아즈라엘",
-            "uid": "971774241030112853",
-            "pid": "2fdqjMRaMG74",
-            "region": false,
-            "hack": false,
-            "lag": false,
-            "family": true,
-            "updated_at": "2025/10/10 11:46:05"
-        },
-        {
-            "lang": "ja",
-            "name": "Mr：Knee",
-            "uid": "590701250709131941",
-            "pid": "4AtE85q46bT6",
-            "region": false,
-            "hack": false,
-            "lag": false,
-            "family": true,
-            "updated_at": "2025/10/10 11:46:05"
-        },
-        {
-            "lang": "ko",
             "name": "아젤리아",
             "uid": "740778241210143017",
             "pid": "2e8YibNaRHqE",
@@ -17131,17 +17109,6 @@
         },
         {
             "lang": "ko",
-            "name": "heeseofox",
-            "uid": "030252220401154657",
-            "pid": "4A75TadiDLjQ",
-            "region": false,
-            "hack": false,
-            "lag": false,
-            "family": true,
-            "updated_at": "2025/10/10 11:46:05"
-        },
-        {
-            "lang": "ko",
             "name": "EZ2G",
             "uid": "095887220914190546",
             "pid": "4mBQJLgJqRJB",
@@ -17153,9 +17120,42 @@
         },
         {
             "lang": "ko",
-            "name": "아빠있어!!요!!!",
-            "uid": "755831220706111940",
-            "pid": "5Q3dqbDhJ4ry",
+            "name": "아즈라엘",
+            "uid": "971774241030112853",
+            "pid": "2fdqjMRaMG74",
+            "region": false,
+            "hack": false,
+            "lag": false,
+            "family": true,
+            "updated_at": "2025/10/10 11:46:05"
+        },
+        {
+            "lang": "ko",
+            "name": "heeseofox",
+            "uid": "030252220401154657",
+            "pid": "4A75TadiDLjQ",
+            "region": false,
+            "hack": false,
+            "lag": false,
+            "family": true,
+            "updated_at": "2025/10/10 11:46:05"
+        },
+        {
+            "lang": "ja",
+            "name": "Mr：Knee",
+            "uid": "590701250709131941",
+            "pid": "4AtE85q46bT6",
+            "region": false,
+            "hack": false,
+            "lag": false,
+            "family": true,
+            "updated_at": "2025/10/10 11:46:05"
+        },
+        {
+            "lang": "ko",
+            "name": "스티브깎기",
+            "uid": "689682190910110612",
+            "pid": "2hg3nq7HfNMQ",
             "region": false,
             "hack": false,
             "lag": false,
@@ -17175,17 +17175,6 @@
         },
         {
             "lang": "ko",
-            "name": "Muu**",
-            "uid": "613055250816092358",
-            "pid": "5TG6RaYADyf6",
-            "region": false,
-            "hack": false,
-            "lag": false,
-            "family": true,
-            "updated_at": "2025/10/10 11:46:05"
-        },
-        {
-            "lang": "ko",
             "name": "무민의 민족",
             "uid": "707602250608040912",
             "pid": "4MLbya8Bt4fJ",
@@ -17197,9 +17186,31 @@
         },
         {
             "lang": "ko",
+            "name": "Muu**",
+            "uid": "613055250816092358",
+            "pid": "5TG6RaYADyf6",
+            "region": false,
+            "hack": false,
+            "lag": false,
+            "family": true,
+            "updated_at": "2025/10/10 11:46:05"
+        },
+        {
+            "lang": "ko",
             "name": "Sexysoyoung:]",
             "uid": "402857250903032659",
             "pid": "4YTnGyH2Jr22",
+            "region": false,
+            "hack": false,
+            "lag": false,
+            "family": true,
+            "updated_at": "2025/10/10 11:46:05"
+        },
+        {
+            "lang": "ko",
+            "name": "아빠있어!!요!!!",
+            "uid": "755831220706111940",
+            "pid": "5Q3dqbDhJ4ry",
             "region": false,
             "hack": false,
             "lag": false,
@@ -17230,9 +17241,9 @@
         },
         {
             "lang": "ko",
-            "name": "name",
-            "uid": "996451220604160107",
-            "pid": "4qRBTGhb9hnT",
+            "name": "호달달고나라떼",
+            "uid": "347714221008012848",
+            "pid": "4TbTRhmF6H4d",
             "region": false,
             "hack": false,
             "lag": false,
@@ -17240,10 +17251,10 @@
             "updated_at": "2025/10/10 11:46:05"
         },
         {
-            "lang": "ko",
-            "name": "Ravenda78",
-            "uid": "719958240416073741",
-            "pid": "4R5RQ6EfYmhG",
+            "lang": "en",
+            "name": "donk 666",
+            "uid": "645867220817151018",
+            "pid": "4T8afrgyryf2",
             "region": false,
             "hack": false,
             "lag": false,
@@ -17274,6 +17285,17 @@
         },
         {
             "lang": "ko",
+            "name": "Ravenda78",
+            "uid": "719958240416073741",
+            "pid": "4R5RQ6EfYmhG",
+            "region": false,
+            "hack": false,
+            "lag": false,
+            "family": true,
+            "updated_at": "2025/10/10 11:46:05"
+        },
+        {
+            "lang": "ko",
             "name": "Ahlam",
             "uid": "452367240213011723",
             "pid": "4ifLyAe68mrE",
@@ -17296,9 +17318,9 @@
         },
         {
             "lang": "ko",
-            "name": "→→→AR",
-            "uid": "182848191203092926",
-            "pid": "23LHdN68ieid",
+            "name": "44세철권태그1아재복귀",
+            "uid": "065942190918101043",
+            "pid": "679MH8B3GA4Q",
             "region": false,
             "hack": false,
             "lag": false,
@@ -17307,9 +17329,9 @@
         },
         {
             "lang": "ko",
-            "name": "44세철권태그1아재복귀",
-            "uid": "065942190918101043",
-            "pid": "679MH8B3GA4Q",
+            "name": "도아아빠",
+            "uid": "355990240515150229",
+            "pid": "2D96mLDDrbqM",
             "region": false,
             "hack": false,
             "lag": false,
@@ -17329,9 +17351,9 @@
         },
         {
             "lang": "ko",
-            "name": "도아아빠",
-            "uid": "355990240515150229",
-            "pid": "2D96mLDDrbqM",
+            "name": "→→→AR",
+            "uid": "182848191203092926",
+            "pid": "23LHdN68ieid",
             "region": false,
             "hack": false,
             "lag": false,
@@ -17362,20 +17384,9 @@
         },
         {
             "lang": "ko",
-            "name": "호달달고나라떼",
-            "uid": "347714221008012848",
-            "pid": "4TbTRhmF6H4d",
-            "region": false,
-            "hack": false,
-            "lag": false,
-            "family": true,
-            "updated_at": "2025/10/10 11:46:05"
-        },
-        {
-            "lang": "en",
-            "name": "donk 666",
-            "uid": "645867220817151018",
-            "pid": "4T8afrgyryf2",
+            "name": "name",
+            "uid": "996451220604160107",
+            "pid": "4qRBTGhb9hnT",
             "region": false,
             "hack": false,
             "lag": false,
@@ -17384,42 +17395,9 @@
         },
         {
             "lang": "ko",
-            "name": "박우람정말로우람하도다",
-            "uid": "230588250625095920",
-            "pid": "3dnRR6R7Aq9B",
-            "region": false,
-            "hack": false,
-            "lag": false,
-            "family": true,
-            "updated_at": "2025/10/10 11:46:05"
-        },
-        {
-            "lang": "ko",
-            "name": "sorryresetbug",
-            "uid": "403216250927141839",
-            "pid": "5dJhyYgQ8A8j",
-            "region": false,
-            "hack": false,
-            "lag": false,
-            "family": true,
-            "updated_at": "2025/10/10 11:46:05"
-        },
-        {
-            "lang": "ko",
-            "name": "Ulmam│Adle",
-            "uid": "523775190910135412",
-            "pid": "3iMnBJ6L5Ain",
-            "region": false,
-            "hack": false,
-            "lag": false,
-            "family": true,
-            "updated_at": "2025/10/10 11:46:05"
-        },
-        {
-            "lang": "ko",
-            "name": "nike_mania_",
-            "uid": "519366210327053607",
-            "pid": "5B7LnFHJTQMB",
+            "name": "신당동불꽃귀수락장인",
+            "uid": "264932190912095730",
+            "pid": "5J35JgTTiM6E",
             "region": false,
             "hack": false,
             "lag": false,
@@ -17439,9 +17417,31 @@
         },
         {
             "lang": "ko",
-            "name": "신당동불꽃귀수락장인",
-            "uid": "264932190912095730",
-            "pid": "5J35JgTTiM6E",
+            "name": "박우람정말로우람하도다",
+            "uid": "230588250625095920",
+            "pid": "3dnRR6R7Aq9B",
+            "region": false,
+            "hack": false,
+            "lag": false,
+            "family": true,
+            "updated_at": "2025/10/10 11:46:05"
+        },
+        {
+            "lang": "ko",
+            "name": "디카페인",
+            "uid": "336286250925062615",
+            "pid": "3LeMFfr97a68",
+            "region": false,
+            "hack": false,
+            "lag": false,
+            "family": true,
+            "updated_at": "2025/10/10 11:46:05"
+        },
+        {
+            "lang": "ko",
+            "name": "sorryresetbug",
+            "uid": "403216250927141839",
+            "pid": "5dJhyYgQ8A8j",
             "region": false,
             "hack": false,
             "lag": false,
@@ -17494,6 +17494,17 @@
         },
         {
             "lang": "ko",
+            "name": "Ulmam│Adle",
+            "uid": "523775190910135412",
+            "pid": "3iMnBJ6L5Ain",
+            "region": false,
+            "hack": false,
+            "lag": false,
+            "family": true,
+            "updated_at": "2025/10/10 11:46:05"
+        },
+        {
+            "lang": "ko",
             "name": "기가스철권8참전기원",
             "uid": "665994211130080718",
             "pid": "2RhhQgt3hT46",
@@ -17505,9 +17516,9 @@
         },
         {
             "lang": "ko",
-            "name": "디카페인",
-            "uid": "336286250925062615",
-            "pid": "3LeMFfr97a68",
+            "name": "nike_mania_",
+            "uid": "519366210327053607",
+            "pid": "5B7LnFHJTQMB",
             "region": false,
             "hack": false,
             "lag": false,
@@ -17560,9 +17571,9 @@
         },
         {
             "lang": "ko",
-            "name": "그냥풍천지",
-            "uid": "779881220710103620",
-            "pid": "2Jg4rJDBqJHB",
+            "name": "CTNN",
+            "uid": "296593250721121538",
+            "pid": "45dLLai2YhhG",
             "region": false,
             "hack": false,
             "lag": false,
@@ -17571,9 +17582,9 @@
         },
         {
             "lang": "ko",
-            "name": "CTNN",
-            "uid": "296593250721121538",
-            "pid": "45dLLai2YhhG",
+            "name": "그냥풍천지",
+            "uid": "779881220710103620",
+            "pid": "2Jg4rJDBqJHB",
             "region": false,
             "hack": false,
             "lag": false,
@@ -17593,9 +17604,9 @@
         },
         {
             "lang": "ko",
-            "name": "Sexysoyoung:<",
-            "uid": "730859250828091437",
-            "pid": "2i75m3hqhgE2",
+            "name": "노력중입니다",
+            "uid": "046133240610082613",
+            "pid": "2MdFDjq3Te3T",
             "region": false,
             "hack": false,
             "lag": false,
@@ -17615,9 +17626,9 @@
         },
         {
             "lang": "ko",
-            "name": "힝구..",
-            "uid": "803293241101121536",
-            "pid": "3qYfaETBQjnd",
+            "name": "일단지른다",
+            "uid": "420490250816125633",
+            "pid": "5at7bMFtnf2d",
             "region": false,
             "hack": false,
             "lag": false,
@@ -17629,17 +17640,6 @@
             "name": "삼겹살탕수육피자햄버거라면초밥",
             "uid": "569037190921105416",
             "pid": "2QyAqTqDtEMy",
-            "region": false,
-            "hack": false,
-            "lag": false,
-            "family": true,
-            "updated_at": "2025/10/10 11:46:05"
-        },
-        {
-            "lang": "ko",
-            "name": "일단지른다",
-            "uid": "420490250816125633",
-            "pid": "5at7bMFtnf2d",
             "region": false,
             "hack": false,
             "lag": false,
@@ -17670,17 +17670,6 @@
         },
         {
             "lang": "ko",
-            "name": "노력중입니다",
-            "uid": "046133240610082613",
-            "pid": "2MdFDjq3Te3T",
-            "region": false,
-            "hack": false,
-            "lag": false,
-            "family": true,
-            "updated_at": "2025/10/10 11:46:05"
-        },
-        {
-            "lang": "ko",
             "name": "Sexysoyoung^0^",
             "uid": "058815191212060406",
             "pid": "3QB4RNhqrDQ8",
@@ -17692,9 +17681,20 @@
         },
         {
             "lang": "ko",
-            "name": "스티브깎기",
-            "uid": "689682190910110612",
-            "pid": "2hg3nq7HfNMQ",
+            "name": "힝구..",
+            "uid": "803293241101121536",
+            "pid": "3qYfaETBQjnd",
+            "region": false,
+            "hack": false,
+            "lag": false,
+            "family": true,
+            "updated_at": "2025/10/10 11:46:05"
+        },
+        {
+            "lang": "ko",
+            "name": "Sexysoyoung:<",
+            "uid": "730859250828091437",
+            "pid": "2i75m3hqhgE2",
             "region": false,
             "hack": false,
             "lag": false,
