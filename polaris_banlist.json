@@ -1,11 +1,11 @@
 {
-    "merged_at": "2026/08/21 17:01:04",
+    "merged_at": "2026/08/22 05:00:12",
     "total": 1621,
     "list": [
         {
             "lang": "ko",
             "name": "건강꿀밤",
-            "uid": null,
+            "uid": "020989200505170812",
             "pid": "2daTD62RMnJ6",
             "region": false,
             "hack": false,
@@ -16,7 +16,7 @@
         {
             "lang": "ko",
             "name": "ㅇ ㅅㅇ",
-            "uid": null,
+            "uid": "750074260430061508",
             "pid": "4ad9jfT63A2n",
             "region": false,
             "hack": false,
@@ -27,7 +27,7 @@
         {
             "lang": "ko",
             "name": "흰구슬이",
-            "uid": null,
+            "uid": "308900191108142104",
             "pid": "67E2HhhtnE2B",
             "region": false,
             "hack": false,
@@ -38,7 +38,7 @@
         {
             "lang": "ko",
             "name": "흰구슬잉",
-            "uid": null,
+            "uid": "745662260819132455",
             "pid": "5mRL3jg7rDy4",
             "region": false,
             "hack": false,
@@ -49,7 +49,7 @@
         {
             "lang": "ko",
             "name": "클라이브좋아",
-            "uid": null,
+            "uid": "692477231004052519",
             "pid": "2Effmd42hMDM",
             "region": false,
             "hack": false,
@@ -60,7 +60,7 @@
         {
             "lang": "ko",
             "name": "철권시작합니다",
-            "uid": null,
+            "uid": "614752200706152447",
             "pid": "2HLQgGg95mbr",
             "region": false,
             "hack": false,
@@ -71,7 +71,7 @@
         {
             "lang": "ko",
             "name": "살살좀해요~ (장난차단)",
-            "uid": null,
+            "uid": "752801260603163443",
             "pid": "5AAe5Myya9Ty",
             "region": false,
             "hack": false,
@@ -82,7 +82,7 @@
         {
             "lang": "ko",
             "name": "연습만이살길",
-            "uid": null,
+            "uid": "929660260805083825",
             "pid": "2gLiyBm5EGi8",
             "region": false,
             "hack": false,
@@ -93,7 +93,7 @@
         {
             "lang": "ko",
             "name": "rusa",
-            "uid": null,
+            "uid": "144755210830134945",
             "pid": "3jt8q2qDiqd2",
             "region": false,
             "hack": false,
@@ -104,7 +104,7 @@
         {
             "lang": "ko",
             "name": "드라너무좋아청년",
-            "uid": null,
+            "uid": "802699260819182758",
             "pid": "352F3Afy43iB",
             "region": false,
             "hack": false,
@@ -115,7 +115,7 @@
         {
             "lang": "zh-CN",
             "name": "IRON | hanhan",
-            "uid": null,
+            "uid": "619327190910090303",
             "pid": "2Je9bhheRdM2",
             "region": true,
             "hack": false,
@@ -126,7 +126,7 @@
         {
             "lang": "ja",
             "name": "ritsu",
-            "uid": null,
+            "uid": "082717260818061506",
             "pid": "4n8hdfh8hfMM",
             "region": false,
             "hack": false,
@@ -12654,7 +12654,7 @@
         },
         {
             "lang": "ko",
-            "name": "ㅤㅤㅤㅤㅤ",
+            "name": "Copilot Search",
             "uid": "807293250625130252",
             "pid": "3E7qEbAQ35nj",
             "region": false,
@@ -17318,7 +17318,7 @@
         },
         {
             "lang": "ja",
-            "name": "Mr：Knee",
+            "name": "Mr：Bob",
             "uid": "590701250709131941",
             "pid": "4AtE85q46bT6",
             "region": false,
