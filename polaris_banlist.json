@@ -1,7 +1,18 @@
 {
-    "merged_at": "2026/08/26 17:01:02",
+    "merged_at": "2026/08/27 05:00:08",
     "total": 1648,
     "list": [
+        {
+            "lang": "ko",
+            "name": "LET'S GO!",
+            "uid": "676130221010170025",
+            "pid": "4gaHyn8BRTG2",
+            "region": false,
+            "hack": false,
+            "lag": false,
+            "family": true,
+            "updated_at": "2026/08/27 13:34:49"
+        },
         {
             "lang": "ko",
             "name": "R Mob",
@@ -16,7 +27,7 @@
         {
             "lang": "ko",
             "name": "Holy Moly",
-            "uid": null,
+            "uid": "726130260825112441",
             "pid": "66ABjtjBMyBB",
             "region": false,
             "hack": false,
@@ -38,7 +49,7 @@
         {
             "lang": "ko",
             "name": "||NEMO||",
-            "uid": null,
+            "uid": "895557190910105247",
             "pid": "367hrQGadF6f",
             "region": false,
             "hack": false,
@@ -49,7 +60,7 @@
         {
             "lang": "ko",
             "name": "||NEMON||",
-            "uid": null,
+            "uid": "237350210127103438",
             "pid": "4QaN8hHtayTM",
             "region": false,
             "hack": false,
@@ -58,9 +69,9 @@
             "updated_at": "2026/08/26 21:35:13"
         },
         {
-            "lang": "en",
+            "lang": "ko",
             "name": "FCMㅣSodamTV",
-            "uid": null,
+            "uid": "391899240726170331",
             "pid": "3366MrqFQhAT",
             "region": true,
             "hack": false,
@@ -71,7 +82,7 @@
         {
             "lang": "en",
             "name": "Taga CDO noobie",
-            "uid": null,
+            "uid": "046443240630080522",
             "pid": "3nYQ6MJRmJ6h",
             "region": false,
             "hack": false,
@@ -82,7 +93,7 @@
         {
             "lang": "ko",
             "name": "문재인 전 대통령",
-            "uid": null,
+            "uid": "632371211129090722",
             "pid": "5aA5f4DGqfaJ",
             "region": false,
             "hack": false,
@@ -93,7 +104,7 @@
         {
             "lang": "zh-CN",
             "name": "WIFIOxygen",
-            "uid": null,
+            "uid": "108514190910105736",
             "pid": "5TtiADgFYdMG",
             "region": true,
             "hack": false,
@@ -232,17 +243,6 @@
             "lag": false,
             "family": false,
             "updated_at": "2026/08/24 12:16:42"
-        },
-        {
-            "lang": "ko",
-            "name": "LET'S GO!",
-            "uid": "676130221010170025",
-            "pid": "4gaHyn8BRTG2",
-            "region": false,
-            "hack": false,
-            "lag": false,
-            "family": true,
-            "updated_at": "2026/08/24 12:12:36"
         },
         {
             "lang": "ko",
@@ -1862,7 +1862,7 @@
             "updated_at": "2026/07/27 14:06:27"
         },
         {
-            "lang": "ko",
+            "lang": "en",
             "name": "안나유저 프란입니다",
             "uid": "943440190910195109",
             "pid": "2439d98T53in",
