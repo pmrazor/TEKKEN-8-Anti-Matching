@@ -1,6 +1,6 @@
 {
     "merged_at": "2026/08/29 05:00:05",
-    "total": 1633,
+    "total": 1634,
     "list": [
         {
             "lang": "ko",
@@ -17964,6 +17964,17 @@
             "lag": false,
             "family": true,
             "updated_at": "2025/10/10 11:46:05"
+        },
+        {
+            "lang": "ja",
+            "name": "ManIHunt",
+            "uid": "000523260930170930",
+            "pid": "5Jtatdq8JdBn",
+            "region": false,
+            "hack": true,
+            "lag": false,
+            "family": false,
+            "updated_at": "2026/10/14 01:44:12"
         }
     ]
 }
