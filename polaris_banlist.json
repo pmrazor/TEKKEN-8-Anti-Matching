@@ -1,6 +1,6 @@
 {
     "merged_at": "2026/08/29 05:00:05",
-    "total": 1634,
+    "total": 1635,
     "list": [
         {
             "lang": "ko",
@@ -17975,6 +17975,17 @@
             "lag": false,
             "family": false,
             "updated_at": "2026/10/14 01:44:12"
+        },
+        {
+            "lang": "ja",
+            "name": "おにぎりまん",
+            "uid": "296184210623180750",
+            "pid": "58TJ7dRRbda2",
+            "region": false,
+            "hack": false,
+            "lag": true,
+            "family": false,
+            "updated_at": "2026/11/01 12:19:29"
         }
     ]
 }
