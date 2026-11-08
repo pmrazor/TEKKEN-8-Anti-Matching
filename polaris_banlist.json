@@ -1,6 +1,6 @@
 {
     "merged_at": "2026/08/29 05:00:05",
-    "total": 1636,
+    "total": 1637,
     "list": [
         {
             "lang": "ko",
@@ -17997,6 +17997,17 @@
             "lag": true,
             "family": false,
             "updated_at": "2026/11/08 15:36:29"
+        },
+        {
+            "lang": "ko",
+            "name": "광기남 1회 참교육",
+            "uid": "997165211225163132",
+            "pid": "5HHDayMenGr6",
+            "region": false,
+            "hack": false,
+            "lag": false,
+            "family": true,
+            "updated_at": "2026/11/09 03:26:49"
         }
     ]
 }
