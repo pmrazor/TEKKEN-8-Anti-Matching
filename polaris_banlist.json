@@ -1,6 +1,6 @@
 {
     "merged_at": "2026/08/29 05:00:05",
-    "total": 1635,
+    "total": 1636,
     "list": [
         {
             "lang": "ko",
@@ -17986,6 +17986,17 @@
             "lag": true,
             "family": false,
             "updated_at": "2026/11/01 12:19:29"
+        },
+        {
+            "lang": "ja",
+            "name": "ﾁｮﾜﾖ",
+            "uid": "253838190923101145",
+            "pid": "56QL2YrRqgna",
+            "region": false,
+            "hack": false,
+            "lag": true,
+            "family": false,
+            "updated_at": "2026/11/08 15:36:29"
         }
     ]
 }
