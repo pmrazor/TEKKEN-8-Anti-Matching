@@ -1,6 +1,6 @@
 {
     "merged_at": "2026/08/29 05:00:05",
-    "total": 1637,
+    "total": 1638,
     "list": [
         {
             "lang": "ko",
@@ -18008,6 +18008,17 @@
             "lag": false,
             "family": true,
             "updated_at": "2026/11/09 03:26:49"
+        },
+        {
+            "lang": "ko",
+            "name": "Sodam",
+            "uid": "994383261106100547",
+            "pid": "2893nAbQt63n",
+            "region": false,
+            "hack": false,
+            "lag": false,
+            "family": true,
+            "updated_at": "2026/11/13 23:58:31"
         }
     ]
 }
