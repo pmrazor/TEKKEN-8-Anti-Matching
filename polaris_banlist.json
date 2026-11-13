@@ -1,6 +1,6 @@
 {
     "merged_at": "2026/08/29 05:00:05",
-    "total": 1638,
+    "total": 1639,
     "list": [
         {
             "lang": "ko",
@@ -18019,6 +18019,17 @@
             "lag": false,
             "family": true,
             "updated_at": "2026/11/13 23:58:31"
+        },
+        {
+            "lang": "ko",
+            "name": "ZIMON-_-",
+            "uid": "902789190916190759",
+            "pid": "34YEMyfB4FBE",
+            "region": false,
+            "hack": false,
+            "lag": true,
+            "family": false,
+            "updated_at": "2026/11/14 02:28:06"
         }
     ]
 }
